@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore datasets
+*.csv
+
+# Ignore the trained model file
+*.pkl
+
+# Ignore Python virtual environment files
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc

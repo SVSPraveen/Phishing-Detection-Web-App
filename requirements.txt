@@ -1,0 +1,10 @@
+# requirements.txt
+# This file lists all the Python libraries that need to be installed.
+# You can install them all at once by running: pip install -r requirements.txt
+
+Flask==2.1.2
+scikit-learn==1.0.2
+pandas==1.4.2
+numpy==1.21.5
+joblib==1.1.0
+gunicorn==20.1.0
